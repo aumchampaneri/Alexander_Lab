@@ -29,11 +29,13 @@ homo_ensembl = {
 }
 
 # Ensembl Codes for Mouse Complement Genes
+# These need to be fixed
+# Only CFH and C3AR1 are fixed as of now
 mus_ensembl = {
-    'C3AR1': 'ENSMUSG00000037940',
+    'C3AR1': 'ENSMUSG00000040552',
     # 'C5AR1': 'ENSMUSG00000026395',
     # 'C5AR2': 'ENSMUSG00000026395',
-    'CFH': 'ENSMUSG00000029757',
+    'CFH': 'ENSMUSG00000026365',
     # 'C1QA': 'ENSMUSG00000029385',
     # 'C1QB': 'ENSMUSG00000029382',
     # 'C1QC': 'ENSMUSG00000029379',
