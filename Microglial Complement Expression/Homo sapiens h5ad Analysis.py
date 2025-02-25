@@ -13,7 +13,7 @@ homo_microglia_SEAAD_DLPFC = sc.read_h5ad('/Users/aumchampaneri/PycharmProjects/
 homo_microglia = ad.concat([homo_microglia_SEAAD_MTG, homo_microglia_SEAAD_DLPFC])
 
 # Filter the dataset to only include normal disease lines
-homo_microglia = homo_microglia[homo_microglia.obs.disease == "normal"]
+# homo_microglia = homo_microglia[homo_microglia.obs.disease == "normal"]
 
 # Create a dot plot
-sc.pl.dotplot(homo_microglia, homo_ensembl, groupby='tissue', save='homo_sapiens')
+sc.pl.dotplot(homo_microglia, homo_ensembl, groupby='disease', save='homo_sapiens_test')
