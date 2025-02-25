@@ -19,7 +19,7 @@
 ---
 
 ## ToDo:
-- [ ] Factor H in microglia for mouse and humans
+- [x] Factor H and C3aR1 in microglia for mouse and humans 
 - [ ] Expression of FH in brain and kidney
 - [ ] Expression of FH and C3aR in Brain and Kidney
 - [ ] Expression of complement proteins in Brains and Kidneys (Mouse and Human)
