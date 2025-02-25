@@ -19,4 +19,10 @@
 ---
 
 ## ToDo:
-- [ ] Something?
+- [ ] Factor H in microglia for mouse and humans
+- [ ] Expression of FH in brain and kidney
+- [ ] Expression of FH and C3aR in Brain and Kidney
+- [ ] Expression of complement proteins in Brains and Kidneys (Mouse and Human)
+- [ ] Single cell transcriptinomics time-lapse of mouse and embryonic development from gastrula to pup
+  - [ ] FH in endothelial cells
+  - [ ] FH in placenta
